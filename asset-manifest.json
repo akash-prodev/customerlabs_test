@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/customerlabs_test/static/css/main.a54f4d79.css",
-    "main.js": "/customerlabs_test/static/js/main.1eefcdd1.js",
+    "main.js": "/customerlabs_test/static/js/main.b6ef5dde.js",
     "index.html": "/customerlabs_test/index.html",
     "main.a54f4d79.css.map": "/customerlabs_test/static/css/main.a54f4d79.css.map",
-    "main.1eefcdd1.js.map": "/customerlabs_test/static/js/main.1eefcdd1.js.map"
+    "main.b6ef5dde.js.map": "/customerlabs_test/static/js/main.b6ef5dde.js.map"
   },
   "entrypoints": [
     "static/css/main.a54f4d79.css",
-    "static/js/main.1eefcdd1.js"
+    "static/js/main.b6ef5dde.js"
   ]
 }
